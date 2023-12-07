@@ -39,7 +39,6 @@ compra.click_boton_continuar()
 #compra.salir_iframe()
 compra.click_boton_finalizar_pedido()
 
-time.sleep(900)
 
 
 
