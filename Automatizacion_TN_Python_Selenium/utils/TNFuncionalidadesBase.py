@@ -16,7 +16,7 @@ class Selectores:
     iniciar_compratn = (By. XPATH, "//*[@id='ajax-cart-submit-div']/input")
     MAIL_INGRESAR = (By. ID, "contact.email")
     selector_cp = (By. ID, "shippingAddress.zipcode")
-    continuar = (By. XPATH, "//*[@id='main-column']/div[2]/form/div[2]/div[4]")
+    continuar = (By. XPATH, "//*[@id='main-column']/div[2]/form/div[2]/div[3]")
     envio = (By. CLASS_NAME, "selector")
     selector_DNI = (By. ID, "billingAddress.id_number")
     selector_nombre = (By. ID, "shippingAddress.first_name")
